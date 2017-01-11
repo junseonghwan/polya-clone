@@ -1,0 +1,12 @@
+.classpath
+.gradle/
+.project
+.settings/
+bin/
+build/
+temp/
+bin/
+build/
+results/
+bin/
+parametricResults/
